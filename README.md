@@ -18,8 +18,7 @@ I'm a Machine Learning engineer and researcher based in Marburg, Germany, workin
 - **Research Assistant – Machine Learning**, Philipps-Universität Marburg  
 - **Teaching Assistant – Machine Learning**, Philipps-Universität Marburg  
 - **Senior Software Engineer**, Comviva (SMS platforms, high-availability systems, observability, containers)  
-- **Software Engineer**, Comviva (telecom, messaging platforms, emergency communication flows)  [oai_citation:0‡Atul_Santhosh_Resume.pdf](sediment://file_00000000bd7072469ad89b0c9ddca553)  
-
+- **Software Engineer**, Comviva (telecom, messaging platforms, emergency communication flows)
 ---
 
 ## 🧠 Interests
