@@ -5,7 +5,7 @@
 [![Email](https://img.shields.io/badge/Email-athulsanthosh%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:athulsanthosh@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-atul--santhosh-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/atul-santhosh/)
 ![Location](https://img.shields.io/badge/Location-Marburg%2C%20Germany-555555?style=flat)
-![Open to work](https://img.shields.io/badge/Open%20to%20full--time-from%201%20Oct%202026-brightgreen?style=flat)
+
 
 ---
 
