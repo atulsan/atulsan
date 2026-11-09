@@ -184,10 +184,10 @@ Technical writing, system documentation, API specifications, architecture guides
 
 ## Education
 
-**M.Sc. Computer Science** — Philipps-Universität Marburg · 2024 – 2026 
+**M.Sc. Computer Science** — Philipps-Universität Marburg · 2024 – 2026 · 
 Thesis: synthetic data generation and object detection for automated insect monitoring (see Featured Projects). University Assistant Teacher for Machine Learning; Head Tutor for International Students (2024–2025); student-facing dataset design and academic support.
 
-**B.Tech. Information Technology** — Motilal Nehru National Institute of Technology, Allahabad · 2017 – 2021
+**B.Tech. Information Technology** — Motilal Nehru National Institute of Technology, Allahabad · 2017 – 2021 ·
 Student Arts Coordinator, 2018–2021.
 
 **Languages:** English (fluent) · German (A1)
