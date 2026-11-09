@@ -1,6 +1,6 @@
 # Atul Santhosh
 
-### Backend & AI Systems Engineer · M.Sc. Computer Science, Philipps-Universität Marburg
+### Software Engineer · M.Sc. Computer Science, Philipps-Universität Marburg
 
 [![Email](https://img.shields.io/badge/Email-athulsanthosh%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:athulsanthosh@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-atul--santhosh-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/atul-santhosh/)
@@ -184,7 +184,7 @@ Technical writing, system documentation, API specifications, architecture guides
 
 ## Education
 
-**M.Sc. Computer Science** — Philipps-Universität Marburg · Apr 2024 – Oct 2026 (expected)
+**M.Sc. Computer Science** — Philipps-Universität Marburg · 2024 – 2026 
 Thesis: synthetic data generation and object detection for automated insect monitoring (see Featured Projects). University Assistant Teacher for Machine Learning; Head Tutor for International Students (2024–2025); student-facing dataset design and academic support.
 
 **B.Tech. Information Technology** — Motilal Nehru National Institute of Technology, Allahabad · 2017 – 2021
